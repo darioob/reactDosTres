@@ -1,0 +1,30 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.menu{
+    color: lightgray;
+    margin-left: 20px;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+.active{
+    color: white;
+    font-weight: 700;
+}
+
+.img {
+    height: 400px;
+}
+
+.imgnot {
+    width: 100%;
+}
+
+.navimg {
+    height: 80px;
+}
+
+.navbar {
+    background-color: black;
+}
